@@ -11,7 +11,7 @@ export function Home() {
   return (
     <div>
 
-      {/* Header */}
+     
       {/* Header */}
       <div className="flex justify-center mx-2 my-4 sm:m-6 md:m-10">
         <div className="flex flex-row flex-wrap gap-3 sm:gap-6 md:gap-10 items-center justify-center w-full">
@@ -73,13 +73,13 @@ export function Home() {
           </div>
 
           {/* Card 2 */}
-          <div className="bg-[#0090BC] border-b-4 border-cyan-300 p-10 w-[30%] shadow-md">
+          <div className="bg-[#0090BC] border-b-4 border-cyan-300 p-10 w-[30%] shadow-md sm:mt-4">
             <p className="text-black text-sm">New Improvements</p>
             <h2 className="text-2xl font-bold text-white">Cutting Edge Technology For Water Management</h2>
           </div>
 
           {/* Card 3 */}
-          <div className="bg-white border-b-4 border-cyan-300 p-10 w-[30%] shadow-md">
+          <div className="bg-white border-b-4 border-cyan-300 p-10 w-[30%] shadow-md mt-4">
             <p className="text-gray-400 text-sm">Quality Services</p>
             <h2 className="text-2xl font-bold">Sustainability Focus</h2>
             <h2 className="text-2xl font-bold">Proven Expertise</h2>

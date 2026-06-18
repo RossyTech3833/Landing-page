@@ -29,7 +29,7 @@ export function Project() {
             the aquaculture sector.
           </p>
 
-          <div className="flex mt-8 lg:mt-10 gap-3">
+          <div className="flex mt-8 lg:mt-10 gap-3 sm:justify-center">
             <ArrowLeft className="bg-gray-500 opacity-50 text-white rounded px-2 font-bold" size={50} />
             <ArrowRight className="bg-white text-blue-300 rounded px-2  font-bold" size={50} />
           </div>
