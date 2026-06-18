@@ -60,8 +60,8 @@ export function Services() {
         <div className="relative z-10 flex flex-col lg:flex-row gap-8 lg:gap-10 justify-center items-start lg:items-center px-4 sm:px-8 lg:px-10 py-12 lg:py-0 lg:h-[800px]">
 
           <div className="w-full lg:w-[50%] text-start text-white">
-            <h1 className="capitalize font-bold md:text-2xl lg:text-2xl text-2xl mb-4 text-black">Why Choose Us</h1>
-            <p className="mb-6 text-gray-500 text-base sm:text-lg md:text-xl mt-12">At Klar Water Enugu, we are dedicated to solving water challenges with precision, expertise,
+            <h1 className="capitalize font-bold md:text-2xl lg:text-2xl text-lg mb-4 text-black">Why Choose Us</h1>
+            <p className="mb-6 text-gray-500 text-base sm:text-lg md:text-xl mt-15">At Klar Water Enugu, we are dedicated to solving water challenges with precision, expertise,
               and innovation. Contact us today to learn how we can transform water accessibility for
               your community or business.</p>
             <button className="py-2 px-3 bg-[#0090BC] mt-8 mb-8 text-white rounded border-white border-8">Contact Us</button>
