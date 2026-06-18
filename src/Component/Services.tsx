@@ -8,8 +8,8 @@ export function Services() {
     <div className="px-4 sm:px-8 md:px-16 lg:px-40">
 
       <div>
-        <h1 className="text-cyan-300 uppercase text-sm">// what we do</h1>
-        <p className="capitalize font-bold md:text-2xl lg:text-2xl text-sm">our services</p>
+        <h1 className="text-cyan-300 uppercase text-2xl">// what we do</h1>
+        <p className="capitalize text-2xl sm:text-3xl lg:text-4xl font-bold">our services</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-10">
@@ -60,11 +60,11 @@ export function Services() {
         <div className="relative z-10 flex flex-col lg:flex-row gap-8 lg:gap-10 justify-center items-start lg:items-center px-4 sm:px-8 lg:px-10 py-12 lg:py-0 lg:h-[800px]">
 
           <div className="w-full lg:w-[50%] text-start text-white">
-            <h1 className="capitalize font-bold md:text-2xl lg:text-2xl text-sm mb-4 text-black">Why Choose Us</h1>
-            <p className="mb-6 text-gray-500 text-base sm:text-lg md:text-xl mt-8">At Klar Water Enugu, we are dedicated to solving water challenges with precision, expertise,
+            <h1 className="capitalize font-bold md:text-2xl lg:text-2xl text-2xl mb-4 text-black">Why Choose Us</h1>
+            <p className="mb-6 text-gray-500 text-base sm:text-lg md:text-xl mt-12">At Klar Water Enugu, we are dedicated to solving water challenges with precision, expertise,
               and innovation. Contact us today to learn how we can transform water accessibility for
               your community or business.</p>
-            <button className="py-2 px-3 bg-[#0090BC] mt-8 text-white rounded border-white border-8">Contact Us</button>
+            <button className="py-2 px-3 bg-[#0090BC] mt-8 mb-8 text-white rounded border-white border-8">Contact Us</button>
           </div>
 
           <div className="w-full lg:w-[50%] text-white flex flex-col gap-4 lg:mt-40">

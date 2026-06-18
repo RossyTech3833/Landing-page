@@ -3,7 +3,7 @@ import logo from "../assets/Logo4.png"
 export function Partners() {
   return (
     <div className="bg-gray-100 rounded p-6 sm:p-10 mx-4 sm:mx-8 md:mx-12 lg:mx-0">
-      <h1 className="text-sm md:text-4xl lg:text-5xl font-bold capitalize mt-6 sm:mt-10">
+      <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold capitalize mt-6 sm:mt-10">
         our partners<span className="text-blue-100">___</span></h1>
 
       <div className="flex flex-col sm:flex-row gap-4 sm:gap-3 mt-10 sm:mt-16 lg:mt-24">
